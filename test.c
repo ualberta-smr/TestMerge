@@ -1,4 +1,5 @@
 int main(){
+    int u;
     return 0;
 }
 
