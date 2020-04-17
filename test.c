@@ -9,3 +9,6 @@ void foo(){
 void bar(){
     return;
 }
+
+void foobar(){
+}
